@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring boot and Selenium**
 
-- 💬 Ask me about **Java, HTML, CSS, JAVASCRIPT, JQUERY, SPRING BOOT, MYSQL, SELENIUM**
+- 💬 Ask me about **JAVA, HTML, CSS, JAVASCRIPT, JQUERY, SPRING BOOT, MYSQL, SELENIUM**
 
 - 📫 How to reach me **rathirathish2001@gmail.com**
 
